@@ -1,10 +1,10 @@
 input: .
 output: .retype
-url: docs.spacefalcon.io
+url:
 # -----------------------------------------------------------------------------
 
 branding:
-  logo: static/logo-with-text.svg          # Path to a logo file.
+  # logo: static/logo-with-text.svg          # Path to a logo file.
   # logoDark: static/logo-dark.png # Path to a logo file to use in dark mode.
   logoAlign: right               # Align the logo to the right or the left.
   label: Docs # Optional label. To remove the label, remove this config.
