@@ -1,23 +1,14 @@
-# Page title here
+---
+label: Hello there!
+---
+# This is another Tech blog
 
-This is a paragraph.
+My name is Phong, a developer, who lives somewhere on earth. I create this site to save my learning progress.
 
-Both [internal](README.md) and [external](https://example.com) links work.
+There will be mostly about Web Development, Solana Development and Coding With Rust in here for now.
 
 ---
 
-## Lists
+## Content
 
-- First item
-- Second item
-- Third item
-
-1. First item
-2. Second item
-3. Third item
-
-> "Cool! This is a quotation."
-
-!!!
-Need to draw attention to something? Use an alert.
-!!!
+[Solana Development](solana/overview) 
