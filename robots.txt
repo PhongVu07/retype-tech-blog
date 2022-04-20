@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://phongvu07.github.io/retype-tech-blog/sitemap.xml.gz
